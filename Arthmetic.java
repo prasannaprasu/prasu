@@ -19,6 +19,7 @@ class Arthmetic
 	public static void main(String[] args) 
 	{
 		 double n1 =25, n2 =30;
+		 long n1 =34, n2 = 45.6;
 		 System.out.println("Sum : " + (n1+n2));
 		 System.out.println("Sub : " + (n1-n2));
 		 System.out.println("Div : " + (n1/n2));
